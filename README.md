@@ -3,7 +3,7 @@
 
 ![alt text](advanced_calculator.gif)
 
-**Advanced Calculator** is a feature-rich GUI-based calculator built using Python's `tkinter` library. It offers basic arithmetic operations, scientific functions, memory storage, and more, all within a user-friendly interface. The calculator supports keyboard input and provides enhanced exception handling for a smooth user experience.
+**This Advanced Calculator** is a feature-rich GUI-based calculator built using Python's `tkinter` library. It offers basic arithmetic operations, scientific functions, memory storage, and more, all within a user-friendly interface. The calculator supports keyboard input and provides enhanced exception handling for a smooth user experience.
 
 **Features**
 - **Basic Operations:** Addition, subtraction, multiplication, and division.
